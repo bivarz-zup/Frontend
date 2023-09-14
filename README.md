@@ -1,13 +1,12 @@
 # Teste Simples FrontEnd React
 
-Este teste avaliará suas habilidades no desenvolvimento de um aplicativo React simples.
+Este teste avaliará suas habilidades no desenvolvimento de um aplicativo React simples. 
 
 ## Tarefa
 
 Desenvolva uma aplicação React com TypeScript que inclua as seguintes funcionalidades:
 
-- [ ] Crie uma tasklist.
-- [ ] Crie um formulário que receba o nome da task e um para a descrição dela.
+- [ ] Um formulário que receba o nome da task e um para a descrição dela.
 - [ ] Na página "Home", você pode adicionar novas tasks.
 - [ ] Na página "Lista de Tasks", todas as tasks são listadas com suas descrições.
 - [ ] É possível editar e apagar o titulo e a descrição da task.
