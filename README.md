@@ -1,6 +1,6 @@
 # Teste Simples FrontEnd React
 
-Este teste avaliará suas habilidades no desenvolvimento de um aplicativo React simples. 
+Este teste avaliará suas habilidades no desenvolvimento de um aplicativo React simples.
 
 ## Tarefa
 
@@ -25,5 +25,11 @@ Você também deve incluir pelo menos um teste unitário.
 
 - Sinta-se à vontade para usar qualquer estrutura ou biblioteca adicional que considere apropriada.
 - O foco principal é a qualidade do código, a organização e a funcionalidade.
+
+## Screenshots
+
+![Screenshot da home](https://github.com/bivarz-zup/Frontend/blob/public/welcome.png)
+![Screenshot da new task](https://github.com/bivarz-zup/Frontend/blob/public/new-task.png)
+![Screenshot da task](https://github.com/bivarz-zup/Frontend/blob/public/task.png)
 
 Boa sorte!
