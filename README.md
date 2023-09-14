@@ -28,8 +28,8 @@ Você também deve incluir pelo menos um teste unitário.
 
 ## Screenshots
 
-![Screenshot da home](https://github.com/bivarz-zup/Frontend/public/welcome.png)
-![Screenshot da new task](https://github.com/bivarz-zup/Frontend/public/new-task.png)
-![Screenshot da task](https://github.com/bivarz-zup/Frontend/public/task.png)
+![Screenshot da home](https://github.com/bivarz-zup/Frontend/blob/main/public/welcome.png)
+![Screenshot da new task](https://github.com/bivarz-zup/Frontend/blob/main/public/new-task.png)
+![Screenshot da task](https://github.com/bivarz-zup/Frontend/blob/main/public/task.png)
 
 Boa sorte!
