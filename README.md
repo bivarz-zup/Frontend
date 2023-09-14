@@ -10,7 +10,7 @@ Desenvolva uma aplicação React com TypeScript que inclua as seguintes funciona
 - [ ] Na página "Home", você pode adicionar novas tasks.
 - [ ] Na página "Lista de Tasks", todas as tasks são listadas com suas descrições.
 - [ ] É possível editar e apagar o titulo e a descrição da task.
-- [ ] Os dados devem ser armazenados em um local de sua preferência (localstorage, cookies, txt, etc)
+- [ ] Os dados devem ser armazenados em um local de sua preferência, e possam persistir mesmo navegando entre as telas, ou recarregando a página.
 
 Você também deve incluir pelo menos um teste unitário.
 
