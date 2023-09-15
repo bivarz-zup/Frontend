@@ -6,7 +6,7 @@ Este teste avaliará suas habilidades no desenvolvimento de um aplicativo React 
 
 Desenvolva uma aplicação React com TypeScript que inclua as seguintes funcionalidades:
 
-- [ ] Um formulário que receba o nome da task e um para a descrição dela.
+- [ ] Um formulário com um input que receba o nome da task e um para a descrição dela.
 - [ ] Na página "Home", você pode adicionar novas tasks.
 - [ ] Na página "Lista de Tasks", todas as tasks são listadas com suas descrições.
 - [ ] É possível editar e apagar o titulo e a descrição da task.
